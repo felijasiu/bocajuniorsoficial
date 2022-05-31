@@ -1,0 +1,81 @@
+body {
+	margin: 0;
+	background-color: #484cab;
+}
+a{
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+	color: #40ff00;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.button {
+	background:#d5eb0f;
+	color:rgb(98, 0, 255);
+	display:inline-block;
+	font-size:1.17em;
+	margin:20px;
+	padding:10px 0px;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #ffffff ;
+}
+.button.radius {
+	border-radius:50px;
+}
+h1{
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: #13c4e4;
+}
+h2{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    font-style: oblique;
+}
+h3{
+	font-family: sans-serif;
+}
+h4 {
+	display:inline;
+	margin-left: 25px;
+	margin-right: 25px;
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	word-spacing: 3px ;
+	line-height: 25px;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+	word-spacing: 3px ;
+	line-height: 25px;
+	text-indent: 50px;
+	font-size: 20px;
+}
+.button2 {
+	background:#00fbff;
+	color:rgb(4, 0, 255);
+	display:inline-block;
+	font-size:1em;
+	margin:20px;
+	padding:10px 0px;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #ffffff ;
+}
+.button.radius {
+	border-radius:50px;
+}
+label{
+	color: #000000;
+	font-size: 25px;
+}
+input{
+	color: #0d00c7;
+}
